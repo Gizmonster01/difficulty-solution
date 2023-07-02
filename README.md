@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Difficulty Solution
+
+Difficulty scaling in Minecraft that's a bit more than just higher attack damage and more hitpoints.
+
+Extremely WIP.
 
 ## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+None.
 
 ## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Unlicensed. Will change.
